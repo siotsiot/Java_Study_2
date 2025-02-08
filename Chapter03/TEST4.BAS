@@ -4,4 +4,3 @@ FOR X = 1 TO 100
     PRINT X; Y; X*Y 
   NEXT 
 NEXT
-
