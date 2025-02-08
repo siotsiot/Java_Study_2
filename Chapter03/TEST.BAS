@@ -9,4 +9,3 @@ PRINT "This program converts gallons to liters."
   l = g * 3.7854 
   PRINT g; "gallons is"; l; "liters." 
   RETURN
-
