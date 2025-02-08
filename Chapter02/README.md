@@ -12,5 +12,5 @@
 * 책에 예제 `Calc.java`입니다.
 * Java 9 이후로 애플릿이 지원하지 않아서 실행은 못 합니다.
 ## 시도해 볼만한 아이디어
-* 책의 예제 `Parser.java`(Parser.java)를 수정해서 `MyParser.java`(MyParser.java)를 만들었습니다.
+* 책의 예제 `Parser.java`(Chapter02/Parser.java)를 수정해서 `MyParser.java`(MyParser.java)를 만들었습니다.
 * 실행 프로그램인 `PDemo.java`(PDemo.java)는 그대로 사용했습니다.
