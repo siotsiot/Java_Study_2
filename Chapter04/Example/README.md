@@ -12,6 +12,7 @@ javac -encoding UTF-8 DownloadManager.java DownloadsTableModel.java ProgressRend
 ```
 
 ## 실행 방법
+터미널에서 다음과 같이 입력합니다.
 ```
 javaw DownloadManager
 ```
